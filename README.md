@@ -8,6 +8,7 @@
 - Van Gogh Knight (5)
 - Starry Glacier (6)
 - Pink Bow (7)
+- Pale King (8)
 
 ## Istallation
 To install the skins, first make sure you have Git installed on your computer, then run the following commands in `<lumafly mods folder>/HKMP/skins`:
